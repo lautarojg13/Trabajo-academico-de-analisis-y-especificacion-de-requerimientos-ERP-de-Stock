@@ -22,5 +22,7 @@ Durante el proceso de ingeniería de requerimientos, se desarrollaron los siguie
 ## 📄 Documentación Completa
 El documento completo de especificación (incluyendo flujos alternativos, manejo de excepciones y análisis detallado de stakeholders) está disponible para su consulta:
 
+**[Especificación de Requerimientos Completa (PDF)](./Proyecto_analisis_de_requerimientos_ERP_Construcciones.pdf)**
+
 ---
 *Este proyecto fue desarrollado de forma colaborativa (equipo de 4 integrantes) como trabajo práctico integrador para la asignatura Sistemas de Información II (UADE).*
